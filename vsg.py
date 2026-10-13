@@ -1,7 +1,7 @@
 """
 Preliminary simulation: estimating the virtual inertia constant H of a
 grid-connected VSG (virtual synchronous generator) inverter from an external
-frequency ramp, and how measurement quality (ADC bits, noise, sampling rate)
+frequency ramp and how measurement quality (ADC bits, noise, sampling rate)
 affects the estimate. Simplified model for learning/prototyping only;
 rebuild in PLECS/Simulink before citing results as your own work.
 
